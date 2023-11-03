@@ -1,0 +1,2 @@
+# server起動
+uvicorn main:app --reload
